@@ -1,0 +1,44 @@
+# 📦 Dependencias
+node_modules/
+
+# ⚙️ Archivos generados por Expo
+.expo/
+.expo-shared/
+dist/
+web-build/
+expo-env.d.ts
+
+# 📱 Archivos de compilación nativa y carpetas que no deben subirse
+android/
+ios/
+*.apk
+*.aab
+
+# 🔐 Archivos sensibles relacionados con Firebase y configuración
+google-services.json
+services/firebase.ts
+services/config.ts
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.pem
+
+# ⚠️ Archivos de entorno local
+.env
+.env.*.local
+.env.local
+
+# ⚠️ Archivos de errores y caché de Metro
+.metro-health-check*
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+*.orig.*
+
+# 💻 Archivos de sistema operativo y editores
+.DS_Store
+
+# 🧑‍💻 TypeScript
+*.tsbuildinfo
