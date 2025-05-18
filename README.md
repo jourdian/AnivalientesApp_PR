@@ -10,7 +10,6 @@ dichas denuncias de forma efectiva, manteniendo una comunicación constante con 
 
 ## 📱 Aplicación Móvil
 
-![Logo AniValientes](./assets/isologo.png)
 
 Esta es la app oficial del proyecto AniValientes. Desde ella, los ciudadanos pueden:
 
