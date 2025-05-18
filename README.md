@@ -85,8 +85,7 @@ Repositorio correspondiente: [AnivalientesWeb_PR](https://github.com/jourdian/An
 - La APK ha sido generada mediante [EAS Build](https://docs.expo.dev/eas/) y está **firmada automáticamente** por los servidores de Expo.
 - Puedes verificar su integridad con el siguiente hash SHA-256:
 
-
-sha256sum AniValientesApp.apk
+HASH Sha256: 3bd38c3377f7d178d43a6e27d717937275e3a6c9dd5cb27eea986d6ce0bab5d9
 
 
 ## 👨‍💻 Autor
